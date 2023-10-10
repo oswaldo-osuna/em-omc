@@ -9,7 +9,7 @@
       },
       {
           "title": "DNS Exfiltration on Windows Systems",
-          "description": "This lab uses labels and SST to identify DNS exfilteration attempts.",
+          "description": "This lab uses labels and SST to identify DNS exfiltration attempts.",
           "filename": "../../dns-exfiltration/dns-exfiltration.md"
       },
       {
