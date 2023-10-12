@@ -41,7 +41,6 @@ In this lab, you will:
   The log search is saved successfully.
    ![](./images/log-search-saved-successfully.png "UIdescription")
 
-
 ## **Task 4:**  Navigate to Detection Rules
 
 1. Click on the **Administration** option inside the drop-down menu to access to **Administration Overview**.
@@ -53,12 +52,12 @@ In this lab, you will:
   Now you are in **Detection Rules**.
    ![](./images/detection-rules.png "UIdescription")
 
-3. Click on **Create** inside **Detection Rules** page to start creating a new detection rule.
-   ![](./images/detection-rules-create.png "UIdescription")
-
 ## **Task 5:**  Create Scheduled search detection rule
 
 1. In this lab you will use both **Scheduled search detection rule** and **Ingest time detection rule** for creating more performant and sophisticated detection rules for alarms.
+
+  Click on **Create** inside **Detection Rules** page to start creating a new detection rule.
+   ![](./images/detection-rules-create.png "UIdescription")
 
   First, you will create a **Scheduled search detection rule** type detection rule.
    ![](./images/scheduled-search-option.png "UIdescription")
@@ -107,4 +106,4 @@ In this lab, you will:
 ## Acknowledgements
 * **Author** - Oswaldo Osuna, Logging Analytics Development Team
 * **Contributors** -  Kumar Varun, Logging Analytics Product Management - Kiran Palukuri, Logging Analytics Product Management - Vikram Reddy, Logging Analytics Development Team 
-* **Last Updated By/Date** - Oct 09 2023
+* **Last Updated By/Date** - Oct 12 2023
