@@ -35,7 +35,7 @@ In this lab, you will:
 
 ## **Task 3:**  Save the Log Search
 
-1. Provide the **Search Name** and the **Search Description (optional)**. Then, click on **Save** button.
+1. Specify the **Search Name** and the **Search Description (optional)**. Then, click on **Save** button.
    ![](./images/log-search-save.png "UIdescription")
 
   The log search is saved successfully.
@@ -59,7 +59,7 @@ In this lab, you will:
   Click on **Create** inside **Detection Rules** page to start creating a new detection rule.
    ![](./images/detection-rules-create.png "UIdescription")
 
-  First, you will create a **Scheduled search detection rule** type detection rule.
+  First, we will create a **Scheduled search** type detection rule.
    ![](./images/scheduled-search-option.png "UIdescription")
 
 2. Specify a **Rule name** and **Saved search compartment**. Then, select the **Saved search** we created for the scheduled task.
